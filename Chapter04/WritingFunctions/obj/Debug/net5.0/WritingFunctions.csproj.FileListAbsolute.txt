@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.deps.json
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.dll
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/bin/Debug/net5.0/ref/WritingFunctions.dll
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/bin/Debug/net5.0/WritingFunctions.pdb
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.dll
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/ref/WritingFunctions.dll
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.pdb
+/Users/Work/Code-Csharp/Chapter04/WritingFunctions/obj/Debug/net5.0/WritingFunctions.genruntimeconfig.cache

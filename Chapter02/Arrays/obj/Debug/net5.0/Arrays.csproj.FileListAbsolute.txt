@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter02/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/Users/Work/Code-Csharp/Chapter02/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter02/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter02/Arrays/bin/Debug/net5.0/Arrays.dll
+/Users/Work/Code-Csharp/Chapter02/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/Users/Work/Code-Csharp/Chapter02/Arrays/bin/Debug/net5.0/Arrays.pdb
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.dll
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.pdb
+/Users/Work/Code-Csharp/Chapter02/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache

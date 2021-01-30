@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/exercises/bin/Debug/net5.0/exercises.deps.json
+/Users/Work/Code-Csharp/Chapter03/exercises/bin/Debug/net5.0/exercises.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/exercises/bin/Debug/net5.0/exercises.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/exercises/bin/Debug/net5.0/exercises.dll
+/Users/Work/Code-Csharp/Chapter03/exercises/bin/Debug/net5.0/ref/exercises.dll
+/Users/Work/Code-Csharp/Chapter03/exercises/bin/Debug/net5.0/exercises.pdb
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.dll
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/ref/exercises.dll
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.pdb
+/Users/Work/Code-Csharp/Chapter03/exercises/obj/Debug/net5.0/exercises.genruntimeconfig.cache

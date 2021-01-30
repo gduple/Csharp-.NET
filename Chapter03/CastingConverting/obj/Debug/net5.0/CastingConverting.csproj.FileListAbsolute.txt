@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.deps.json
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.dll
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/bin/Debug/net5.0/ref/CastingConverting.dll
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/bin/Debug/net5.0/CastingConverting.pdb
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.dll
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/ref/CastingConverting.dll
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.pdb
+/Users/Work/Code-Csharp/Chapter03/CastingConverting/obj/Debug/net5.0/CastingConverting.genruntimeconfig.cache

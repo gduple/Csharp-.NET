@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/bin/Debug/net5.0/BooleanOperators.deps.json
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/bin/Debug/net5.0/BooleanOperators.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/bin/Debug/net5.0/BooleanOperators.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/bin/Debug/net5.0/BooleanOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/bin/Debug/net5.0/ref/BooleanOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/bin/Debug/net5.0/BooleanOperators.pdb
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/ref/BooleanOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.pdb
+/Users/Work/Code-Csharp/Chapter03/BooleanOperators/obj/Debug/net5.0/BooleanOperators.genruntimeconfig.cache

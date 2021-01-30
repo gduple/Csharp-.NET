@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.deps.json
+/Users/Work/Code-Csharp/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.dll
+/Users/Work/Code-Csharp/Chapter02/NullHandling/bin/Debug/net5.0/ref/NullHandling.dll
+/Users/Work/Code-Csharp/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.pdb
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.dll
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/ref/NullHandling.dll
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.pdb
+/Users/Work/Code-Csharp/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.genruntimeconfig.cache

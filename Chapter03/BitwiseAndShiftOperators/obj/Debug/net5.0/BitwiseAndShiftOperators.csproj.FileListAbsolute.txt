@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.deps.json
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/Users/Work/Code-Csharp/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.genruntimeconfig.cache

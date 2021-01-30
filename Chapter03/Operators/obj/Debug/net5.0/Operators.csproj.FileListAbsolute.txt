@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/Work/Code-Csharp/Chapter03/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/Operators/bin/Debug/net5.0/Operators.dll
+/Users/Work/Code-Csharp/Chapter03/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/Work/Code-Csharp/Chapter03/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.dll
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/Work/Code-Csharp/Chapter03/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter02/Arguments/bin/Debug/net5.0/Arguments.deps.json
+/Users/Work/Code-Csharp/Chapter02/Arguments/bin/Debug/net5.0/Arguments.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter02/Arguments/bin/Debug/net5.0/Arguments.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter02/Arguments/bin/Debug/net5.0/Arguments.dll
+/Users/Work/Code-Csharp/Chapter02/Arguments/bin/Debug/net5.0/ref/Arguments.dll
+/Users/Work/Code-Csharp/Chapter02/Arguments/bin/Debug/net5.0/Arguments.pdb
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.dll
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/ref/Arguments.dll
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.pdb
+/Users/Work/Code-Csharp/Chapter02/Arguments/obj/Debug/net5.0/Arguments.genruntimeconfig.cache

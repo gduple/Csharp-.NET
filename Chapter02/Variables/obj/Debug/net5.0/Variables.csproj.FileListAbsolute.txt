@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Variables/bin/Debug/net5.0/Variables.deps.json
+/Users/Work/Code-Csharp/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter02/Variables/bin/Debug/net5.0/Variables.dll
+/Users/Work/Code-Csharp/Chapter02/Variables/bin/Debug/net5.0/ref/Variables.dll
+/Users/Work/Code-Csharp/Chapter02/Variables/bin/Debug/net5.0/Variables.pdb
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.dll
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/ref/Variables.dll
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.pdb
+/Users/Work/Code-Csharp/Chapter02/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.deps.json
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.dll
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/bin/Debug/net5.0/ref/IterationStatements.dll
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.pdb
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.dll
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/ref/IterationStatements.dll
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.pdb
+/Users/Work/Code-Csharp/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.deps.json
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.dll
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/bin/Debug/net5.0/ref/HandlingExceptions.dll
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.pdb
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.dll
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/ref/HandlingExceptions.dll
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.pdb
+/Users/Work/Code-Csharp/Chapter03/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter02/Formatting/bin/Debug/net5.0/Formatting.deps.json
+/Users/Work/Code-Csharp/Chapter02/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter02/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter02/Formatting/bin/Debug/net5.0/Formatting.dll
+/Users/Work/Code-Csharp/Chapter02/Formatting/bin/Debug/net5.0/ref/Formatting.dll
+/Users/Work/Code-Csharp/Chapter02/Formatting/bin/Debug/net5.0/Formatting.pdb
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.dll
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/ref/Formatting.dll
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.pdb
+/Users/Work/Code-Csharp/Chapter02/Formatting/obj/Debug/net5.0/Formatting.genruntimeconfig.cache

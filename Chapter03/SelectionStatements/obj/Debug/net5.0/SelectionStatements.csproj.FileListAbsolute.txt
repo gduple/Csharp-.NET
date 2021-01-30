@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.deps.json
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.dll
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/bin/Debug/net5.0/ref/SelectionStatements.dll
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.pdb
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.dll
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/ref/SelectionStatements.dll
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.pdb
+/Users/Work/Code-Csharp/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.genruntimeconfig.cache

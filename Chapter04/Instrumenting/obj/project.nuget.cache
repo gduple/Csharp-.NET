@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvdMMra4OorVVmysyQzu0tOl8M7SJNDR7sfBfRasQZ1RtrSzCB0mSVuZImza3kwL2z6Ahl9TVwTBLL7CBl3P/A==",
+  "success": true,
+  "projectFilePath": "/Users/Work/Code-Csharp/Chapter04/Instrumenting/Instrumenting.csproj",
+  "expectedPackageFiles": [
+    "/Users/Work/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/Work/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

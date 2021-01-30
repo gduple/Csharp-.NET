@@ -1,0 +1,15 @@
+/Users/Work/Code-Csharp/Chapter04/Debugging/bin/Debug/net5.0/Debugging.deps.json
+/Users/Work/Code-Csharp/Chapter04/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.json
+/Users/Work/Code-Csharp/Chapter04/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.dev.json
+/Users/Work/Code-Csharp/Chapter04/Debugging/bin/Debug/net5.0/Debugging.dll
+/Users/Work/Code-Csharp/Chapter04/Debugging/bin/Debug/net5.0/ref/Debugging.dll
+/Users/Work/Code-Csharp/Chapter04/Debugging/bin/Debug/net5.0/Debugging.pdb
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.csprojAssemblyReference.cache
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfoInputs.cache
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfo.cs
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.dll
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/ref/Debugging.dll
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.pdb
+/Users/Work/Code-Csharp/Chapter04/Debugging/obj/Debug/net5.0/Debugging.genruntimeconfig.cache
