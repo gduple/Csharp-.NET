@@ -88,59 +88,8 @@ namespace Packt.Shared
         }
     }
 
-    public class PersonComparer : IComparer<Person>
-    {
-        public int Compare(Person x, Person y)
-        {
-            // compare the Name Lengths...
-            int result = x.Name.Length.CompareTo(y.Name.Length);
+   
 
-            // ...if they are equal...
-            if (result == 0)
-            {
-                // ...then compare by the Names...
-                return x.Name.CompareTo(y.Name);
-            }
-            else
-            {
-                // ...otherwise compare by the Lengths
-                return result;
-            }
-        }
-    }
 
-    public class Thing
-    {
-        public object Data = default(object);
-
-        public string Process(object input)
-        {
-            if (Data == input)
-            {
-                return "Data and input are the same.";
-            }
-            else
-            {
-                return "data and input are NOT the same.";
-            }
-        }
-    }
-
-    public class GenericThing<T> where T : IComparable
-    {
-        public T Data = default(T);
-
-        public string Process(T input)
-        {
-            if (Data.CompareTo(input) == 0)
-            {
-                return "Data and input are the same.";
-            }
-            else
-            {
-                return "Data and input are NOT the same.";
-            }
-        }
-    }
 
 }
