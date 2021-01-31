@@ -97,7 +97,21 @@ namespace PeopleApp
             var dv2 = new DisplacementVector(-2, 7);
             var dv3 = dv1 + dv2;
 
-            WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
+            WriteLine(
+                $"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
+            
+            Employee john = new Employee
+            {
+                Name = "John Jones",
+                DateOfBirth = new DateTime(1990, 7, 27)
+            };
+            john.WriteToConsole();
+
+            john.EmployeeCode = "33001";
+            john.HireDate = new DateTime(2014, 11, 23);
+            WriteLine($"{john.Name} was hired on {john.HireDate:MM/dd/yy}");
+
+            WriteLine(john.ToString());
         }
         private static void Harry_Shout(object sender, EventArgs e)
         {

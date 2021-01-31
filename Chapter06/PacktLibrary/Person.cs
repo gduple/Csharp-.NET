@@ -86,10 +86,12 @@ namespace Packt.Shared
         {
             return Name.CompareTo(other.Name);
         }
+
+    public override string ToString()
+    {
+      return $"{Name} is a {base.ToString()}";
     }
 
-   
-
-
+    }
 
 }
