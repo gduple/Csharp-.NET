@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/bin/Debug/net5.0/Exercise02.deps.json
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/bin/Debug/net5.0/Exercise02.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/bin/Debug/net5.0/Exercise02.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/bin/Debug/net5.0/Exercise02.dll
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/bin/Debug/net5.0/ref/Exercise02.dll
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/bin/Debug/net5.0/Exercise02.pdb
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.dll
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/ref/Exercise02.dll
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.pdb
+/Users/Work/Csharp-.NET/Chapter06/Exercise02/obj/Debug/net5.0/Exercise02.genruntimeconfig.cache
