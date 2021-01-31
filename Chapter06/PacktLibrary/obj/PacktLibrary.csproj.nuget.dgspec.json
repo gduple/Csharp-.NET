@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/PacktLibrary.csproj": {}
+    "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/PacktLibrary.csproj": {}
   },
   "projects": {
-    "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/PacktLibrary.csproj": {
+    "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/PacktLibrary.csproj",
+        "projectUniqueName": "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/PacktLibrary.csproj",
+        "projectPath": "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/PacktLibrary.csproj",
         "packagesPath": "/Users/Work/.nuget/packages/",
-        "outputPath": "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/obj/",
+        "outputPath": "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Work/.nuget/NuGet/NuGet.Config"

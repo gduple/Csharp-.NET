@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N/By835hSjt/KZQMVFjTprRKZGMaDzrcKZafAyEuEbb+4J+n6MMuoxZsFXbAjZKh4Ck3US8aQvs1wC9lXJ5aOw==",
+  "dgSpecHash": "q8YhD8p47klQTBQvxcKHPP8UzTebi0vb0JgN90N1U+WyElHHVwbFPJxY6cph8LHqzb3HcWi4bwt080cQ5jO3WQ==",
   "success": true,
-  "projectFilePath": "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/PacktLibrary.csproj",
+  "projectFilePath": "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/PacktLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

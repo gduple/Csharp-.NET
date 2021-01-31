@@ -10,3 +10,15 @@
 /Users/Work/Code-Csharp/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.dll
 /Users/Work/Code-Csharp/Chapter06/PacktLibrary/obj/Debug/net5.0/ref/PacktLibrary.dll
 /Users/Work/Code-Csharp/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.pdb
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/bin/Debug/net5.0/PacktLibrary.deps.json
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/bin/Debug/net5.0/PacktLibrary.dll
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/bin/Debug/net5.0/ref/PacktLibrary.dll
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/bin/Debug/net5.0/PacktLibrary.pdb
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.dll
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/ref/PacktLibrary.dll
+/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/obj/Debug/net5.0/PacktLibrary.pdb

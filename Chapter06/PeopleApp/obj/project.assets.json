@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Work/Code-Csharp/Chapter06/PeopleApp/PeopleApp.csproj",
+      "projectUniqueName": "/Users/Work/Csharp-.NET/Chapter06/PeopleApp/PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "/Users/Work/Code-Csharp/Chapter06/PeopleApp/PeopleApp.csproj",
+      "projectPath": "/Users/Work/Csharp-.NET/Chapter06/PeopleApp/PeopleApp.csproj",
       "packagesPath": "/Users/Work/.nuget/packages/",
-      "outputPath": "/Users/Work/Code-Csharp/Chapter06/PeopleApp/obj/",
+      "outputPath": "/Users/Work/Csharp-.NET/Chapter06/PeopleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Work/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/PacktLibrary.csproj": {
-              "projectPath": "/Users/Work/Code-Csharp/Chapter06/PacktLibrary/PacktLibrary.csproj"
+            "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/PacktLibrary.csproj": {
+              "projectPath": "/Users/Work/Csharp-.NET/Chapter06/PacktLibrary/PacktLibrary.csproj"
             }
           }
         }
