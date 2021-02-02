@@ -13,3 +13,6 @@
 /Users/Work/Csharp-.NET/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/ref/AssembliesAndNamespaces.dll
 /Users/Work/Csharp-.NET/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.pdb
 /Users/Work/Csharp-.NET/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.genruntimeconfig.cache
+/Users/Work/Csharp-.NET/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/DialectSoftware.Collections.Matrix.dll
+/Users/Work/Csharp-.NET/Chapter07/AssembliesAndNamespaces/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/Work/Csharp-.NET/Chapter07/AssembliesAndNamespaces/obj/Debug/net5.0/AssembliesAndNamespaces.csproj.CopyComplete

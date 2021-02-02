@@ -6,7 +6,7 @@ namespace DotNetCoreEverywhere
     {
         static void Main(string[] args)
         {
-            WriteLine("I cna run everywhere!");
+            WriteLine("I can run everywhere!");
         }
     }
 }
