@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "WorkingWithDictionaries"
+		},
+		{
+			"path": "WorkingWithRanges"
 		}
 	],
 	"settings": {}

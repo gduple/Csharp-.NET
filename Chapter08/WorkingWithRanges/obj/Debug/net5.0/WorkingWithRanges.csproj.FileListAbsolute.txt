@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.deps.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/bin/Debug/net5.0/ref/WorkingWithRanges.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/bin/Debug/net5.0/WorkingWithRanges.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/ref/WorkingWithRanges.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithRanges/obj/Debug/net5.0/WorkingWithRanges.genruntimeconfig.cache
