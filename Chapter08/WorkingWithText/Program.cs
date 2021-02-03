@@ -20,6 +20,30 @@ namespace WorkingWithText
             {
                 WriteLine(item);
             }
+
+            string fullName = "Alan Jones";
+            int indexOfTheSpace = fullName.IndexOf(' ');
+
+            string firstName = fullName.Substring(
+                startIndex: 0, length: indexOfTheSpace
+            );
+
+            string lastName = fullName.Substring(
+                startIndex: indexOfTheSpace + 1
+            );
+
+            WriteLine($"{lastName}, {firstName}");
+
+            string company = "Microsoft";
+
+            bool startsWithM = company.StartsWith("M");
+
+            bool containsN = company.Contains("N");
+
+            bool endsWithT = company.EndsWith("t");
+
+            WriteLine($"Starts with M: {startsWithM}, contains an N: {containsN}, ends with T: {endsWithT}");
+                
         }
     }
 }
