@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.deps.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/bin/Debug/net5.0/ref/WorkingWithNumbers.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/ref/WorkingWithNumbers.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.genruntimeconfig.cache
