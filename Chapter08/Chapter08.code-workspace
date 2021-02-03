@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "WorkingWithText"
+		},
+		{
+			"path": "WorkingWithRegularExpressions"
 		}
 	],
 	"settings": {}
