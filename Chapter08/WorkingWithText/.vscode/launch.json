@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/WorkingWithText.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/WorkingWithNumbers",
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.deps.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/bin/Debug/net5.0/ref/WorkingWithText.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/bin/Debug/net5.0/WorkingWithText.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/ref/WorkingWithText.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithText/obj/Debug/net5.0/WorkingWithText.genruntimeconfig.cache
