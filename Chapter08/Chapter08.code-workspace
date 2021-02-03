@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "WorkingWithRegularExpressions"
+		},
+		{
+			"path": "WorkingWithLists"
 		}
 	],
 	"settings": {}
