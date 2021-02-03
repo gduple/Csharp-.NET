@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.deps.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/ref/WorkingWithNetworkResources.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/ref/WorkingWithNetworkResources.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.genruntimeconfig.cache
