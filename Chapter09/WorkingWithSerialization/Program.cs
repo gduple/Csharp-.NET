@@ -60,6 +60,21 @@ namespace WorkingWithSerialization
 
             // Display the serialized object graph
             WriteLine(File.ReadAllText(path));
+
+            /****************************************************************/
+
+            using (FileStream xmlLoad = File.Open(path, FileMode.Open))
+            {
+                // deserialize and cast the object graph into a list of Person
+                var loadedPeople = (List<Person>)xs.Deserialize(xmlLoad);
+
+                foreach (var item in loadedPeople)
+                {
+                    WriteLine("{0} has {1} children",
+                        item.LastName, item.Children.Count
+                    );
+                }
+            }
         }
     }
 }
