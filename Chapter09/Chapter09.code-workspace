@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "WorkingWithFileSystems"
+		},
+		{
+			"path": "WorkingWithStreams"
 		}
 	],
 	"settings": {}
