@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.deps.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/bin/Debug/net5.0/ref/WorkingWithReflection.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/ref/WorkingWithReflection.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.genruntimeconfig.cache
