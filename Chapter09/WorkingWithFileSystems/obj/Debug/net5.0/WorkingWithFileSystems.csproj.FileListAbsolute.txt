@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.deps.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/ref/WorkingWithFileSystems.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/bin/Debug/net5.0/WorkingWithFileSystems.pdb
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/ref/WorkingWithFileSystems.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.pdb
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithFileSystems/obj/Debug/net5.0/WorkingWithFileSystems.genruntimeconfig.cache

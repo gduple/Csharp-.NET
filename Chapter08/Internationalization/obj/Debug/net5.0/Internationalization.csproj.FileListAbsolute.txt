@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/bin/Debug/net5.0/Internationalization.deps.json
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/bin/Debug/net5.0/Internationalization.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/bin/Debug/net5.0/Internationalization.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/bin/Debug/net5.0/Internationalization.dll
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/bin/Debug/net5.0/ref/Internationalization.dll
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/bin/Debug/net5.0/Internationalization.pdb
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.dll
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/ref/Internationalization.dll
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.pdb
+/Users/Work/Csharp-.NET/Chapter08/Internationalization/obj/Debug/net5.0/Internationalization.genruntimeconfig.cache
