@@ -1,0 +1,17 @@
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.deps.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/bin/Debug/net5.0/ref/WorkingWithImages.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/bin/Debug/net5.0/WorkingWithImages.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/bin/Debug/net5.0/SixLabors.ImageSharp.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.csproj.CopyComplete
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/ref/WorkingWithImages.dll
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.pdb
+/Users/Work/Csharp-.NET/Chapter08/WorkingWithImages/obj/Debug/net5.0/WorkingWithImages.genruntimeconfig.cache
