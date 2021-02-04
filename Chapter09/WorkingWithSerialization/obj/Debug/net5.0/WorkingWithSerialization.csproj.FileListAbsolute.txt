@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.deps.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/ref/WorkingWithSerialization.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.pdb
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/ref/WorkingWithSerialization.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.pdb
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.genruntimeconfig.cache
