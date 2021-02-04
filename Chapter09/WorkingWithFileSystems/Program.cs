@@ -12,7 +12,8 @@ namespace WorkingWithFileSystems
         static void Main(string[] args)
         {
             // OutputFileSystemInfo();
-            WorkWithDrives();
+            // WorkWithDrives();
+            WorkWithDirectories();
         }
         static void OutputFileSystemInfo()
         {
@@ -49,6 +50,30 @@ namespace WorkingWithFileSystems
                     WriteLine("{0,-30} | {1,-10}", drive.Name, drive.DriveType);
                 }
             }
+        }
+
+        static void WorkWithDirectories()
+        {
+            // define a directory path for a new folder
+            // starting in the user's folder
+            var newFolder = Combine(
+                GetFolderPath(SpecialFolder.Personal),
+                "Csharp-.NET", "Chapter09", "NewFolder");
+            
+            // check if it exists
+            WriteLine($"Does it exist? {Exists(newFolder)}");
+
+            // create directory
+            WriteLine("Creating it...");
+            CreateDirectory(newFolder);
+            WriteLine($"Does it exist? {Exists(newFolder)}");
+            Write("Confirm the directory exists, and then press ENTER: ");
+            ReadLine();
+
+            // delete directory
+            WriteLine("Deleting it...");
+            Delete(newFolder, recursive: true);
+            WriteLine($"Does it exist? {Exists(newFolder)}");
         }
     }
 }
