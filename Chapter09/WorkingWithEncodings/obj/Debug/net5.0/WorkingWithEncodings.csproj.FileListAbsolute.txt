@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.deps.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/ref/WorkingWithEncodings.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/bin/Debug/net5.0/WorkingWithEncodings.pdb
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/ref/WorkingWithEncodings.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.pdb
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithEncodings/obj/Debug/net5.0/WorkingWithEncodings.genruntimeconfig.cache
