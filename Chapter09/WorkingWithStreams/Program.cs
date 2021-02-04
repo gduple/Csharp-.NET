@@ -12,7 +12,7 @@ namespace WorkingWithStreams
     {
         static void Main(string[] args)
         {
-            // WorkWithText();
+            WorkWithText();
             WorkWithXml();
         }
 
@@ -23,62 +23,102 @@ namespace WorkingWithStreams
 
         static void WorkWithText()
         {
-            // define a file to write to
-            string textFile = Combine(CurrentDirectory, "streams.txt");
-            
-            // create a text file and return a helper writer
-            StreamWriter text = File.CreateText(textFile);
+            StreamWriter text = null;
 
-            // enumerate the strings, writing each one
-            // to the stream on a separate line
-            foreach (string item in callsigns)
+            try
             {
-                text.WriteLine(item);
-            }
-            text.Close(); // release resources
+                // define a file to write to
+                string textFile = Combine(CurrentDirectory, "streams.txt");
+                
+                // create a text file and return a helper writer
+                text = File.CreateText(textFile);
 
-            // output the contents of the file
-            WriteLine("{0} contains {1:N0} bytes.",
-                arg0: textFile,
-                arg1: new FileInfo(textFile).Length);
-            WriteLine(File.ReadAllText(textFile));
+                // enumerate the strings, writing each one
+                // to the stream on a separate line
+                foreach (string item in callsigns)
+                {
+                    text.WriteLine(item);
+                }
+                text.Close(); // release resources
+
+                // output the contents of the file
+                WriteLine("{0} contains {1:N0} bytes.",
+                    arg0: textFile,
+                    arg1: new FileInfo(textFile).Length);
+                WriteLine(File.ReadAllText(textFile));
+            }
+            catch (Exception ex)
+            {
+                WriteLine($"{ex.GetType()} says {ex.Message}");
+            }
+            finally
+            {
+                if (text != null)
+                {
+                    text.Dispose();
+                    WriteLine("The file stream's unmanaged resources have been disposed.");
+                }
+            }
         }
 
         static void WorkWithXml()
         {
-            // define a file to write to
-            string xmlFile = Combine(CurrentDirectory, "streams.xml");
+            FileStream xmlFileStream = null;
+            XmlWriter xml = null;
 
-            // create a file stream
-            FileStream xmlFileStream = File.Create(xmlFile);
+            try{
+                // define a file to write to
+                string xmlFile = Combine(CurrentDirectory, "streams.xml");
 
-            // wrap the file stream in an XML writer helper
-            // and automatically indent nested elements
-            XmlWriter xml = XmlWriter.Create(xmlFileStream,
-                new XmlWriterSettings { Indent = true });
+                // create a file stream
+                xmlFileStream = File.Create(xmlFile);
 
-            // write the XML declaration
-            xml.WriteStartElement("callsigns");
+                // wrap the file stream in an XML writer helper
+                // and automatically indent nested elements
+                xml = XmlWriter.Create(xmlFileStream,
+                    new XmlWriterSettings { Indent = true });
 
-            // enumerate the strings writing each one to the stream
-            foreach (string item in callsigns)
-            {
-                xml.WriteElementString("callsign", item);
+                // write the XML declaration
+                xml.WriteStartElement("callsigns");
+
+                // enumerate the strings writing each one to the stream
+                foreach (string item in callsigns)
+                {
+                    xml.WriteElementString("callsign", item);
+                }
+
+                // write the close root element
+                xml.WriteEndElement();
+
+                // close the helper and stream
+                xml.Close();
+                xmlFileStream.Close();
+
+                // output all the contents of the file
+                WriteLine("{0} contains {1:N0} bytes.",
+                    arg0: xmlFile,
+                    arg1: new FileInfo(xmlFile).Length);
+                
+                WriteLine(File.ReadAllText(xmlFile));
             }
-
-            // write the close root element
-            xml.WriteEndElement();
-
-            // close the helper and stream
-            xml.Close();
-            xmlFileStream.Close();
-
-            // output all the contents of the file
-            WriteLine("{0} contains {1:N0} bytes.",
-                arg0: xmlFile,
-                arg1: new FileInfo(xmlFile).Length);
-            
-            WriteLine(File.ReadAllText(xmlFile));
+            catch (Exception ex)
+            {
+                // if the path doesn't exist the exception will be caught
+                WriteLine($"{ex.GetType()} says {ex.Message}");
+            }
+            finally
+            {
+                if (xml != null)
+                {
+                    xml.Dispose();
+                    WriteLine("The XML writer's unmanaged resources have been disposed.");
+                }
+                if (xmlFileStream != null)
+                {
+                    xmlFileStream.Dispose();
+                    WriteLine("The file stream's unmanaged resources have been disposed.");
+                }
+            }
         }
     }
 }
