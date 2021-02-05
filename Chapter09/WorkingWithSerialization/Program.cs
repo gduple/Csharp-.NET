@@ -3,6 +3,7 @@ using System.Collections.Generic; // List<T>, HashSet<T>
 using System.Xml.Serialization; // XmlSerializer
 using System.IO; // FileStream
 using Packt.Shared; // Person
+using System.Threading.Tasks;
 using static System.Console;
 using static System. Environment;
 using static System.IO.Path;
@@ -75,6 +76,28 @@ namespace WorkingWithSerialization
                     );
                 }
             }
+            
+            /****************************************************************/
+
+            // create a file to write to
+            string jsonPath = Combine(CurrentDirectory, "people.Json");
+
+            using (StreamWriter jsonStream = File.CreateText(jsonPath))
+            {
+                // create an object that will format as JSON
+                var jss = new Newtonsoft.Json.JsonSerializer();
+
+                // serialize the object graph into a string
+                jss.Serialize(jsonStream, people);
+            }
+            WriteLine();
+
+            WriteLine( "Written {0:N0} bytes of JSON to: {1}",
+                arg0: new FileInfo(jsonPath).Length,
+                arg1: jsonPath );
+            
+            // Display the serialized object graph
+            WriteLine(File.ReadAllText(jsonPath));
         }
     }
 }

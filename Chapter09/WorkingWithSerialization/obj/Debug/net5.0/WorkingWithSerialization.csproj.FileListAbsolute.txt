@@ -13,3 +13,5 @@
 /Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/ref/WorkingWithSerialization.dll
 /Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.pdb
 /Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.genruntimeconfig.cache
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/Work/Csharp-.NET/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csproj.CopyComplete
