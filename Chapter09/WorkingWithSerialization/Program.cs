@@ -4,6 +4,7 @@ using System.Xml.Serialization; // XmlSerializer
 using System.IO; // FileStream
 using Packt.Shared; // Person
 using System.Threading.Tasks;
+using nuJson = System.Text.Json.JsonSerializer;
 using static System.Console;
 using static System. Environment;
 using static System.IO.Path;
@@ -12,7 +13,7 @@ namespace WorkingWithSerialization
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             // create an object graph
             var people = new List<Person>
@@ -98,6 +99,24 @@ namespace WorkingWithSerialization
             
             // Display the serialized object graph
             WriteLine(File.ReadAllText(jsonPath));
+
+            /****************************************************************/
+
+            using (FileStream jsonLoad = File.Open(jsonPath, FileMode.Open))
+            {
+                // deserialize object graph into a list of Person
+                var loadedPeople = (List<Person>)
+
+                await nuJson.DeserializeAsync(
+                    utf8Json: jsonLoad,
+                    returnType: typeof(List<Person>) );
+                
+                foreach (var item in loadedPeople)
+                {
+                    WriteLine( "{0} has {1} children.",
+                    item.LastName, item.Children?.Count ?? 0 );
+                }
+            }
         }
     }
 }
