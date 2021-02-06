@@ -10,7 +10,8 @@ namespace WorkingWithEFCore
     {
         static void Main(string[] args)
         {
-            QueryingCategories();
+            // QueryingCategories();
+            FilteredIncludes();
         }
         
         static void QueryingCategories()
@@ -27,6 +28,29 @@ namespace WorkingWithEFCore
                 {
                     WriteLine($"{c.CategoryName} has {c.Products.Count} products.");
                 }
+            }
+        }
+
+        static void FilteredIncludes()
+        {
+            using (var db = new Northwind())
+            {
+                Write("Enter a minimum for units in stock: ");
+                string unitsInStock = ReadLine();
+                int stock = int.Parse(unitsInStock);
+
+                IQueryable<Category> cats = db.Categories
+                    .Include(c => c.Products.Where(p => p.Stock >= stock));
+
+                    foreach (Category c in cats)
+                    {
+                        WriteLine($"{c.CategoryName} has {c.Products.Count} products with a minimum of {stock} units in stock.");
+
+                        foreach (Product p in c.Products)
+                        {
+                            WriteLine($"  {p.ProductName} has {p.Stock} units in stock.");
+                        }
+                    }
             }
         }
     }
