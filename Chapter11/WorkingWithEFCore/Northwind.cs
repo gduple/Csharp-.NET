@@ -29,9 +29,9 @@ namespace Packt.Shared
         .HasMaxLength(15);
 
       // added to "fix" the lack of decimal support in SQLite
-      // modelBuilder.Entity<Product>()
-      //   .Property(product => product.Cost)
-      //   .HasConversion<double>();
+      modelBuilder.Entity<Product>()
+        .Property(product => product.Cost)
+        .HasConversion<double>();
     }
   }
 }

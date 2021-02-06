@@ -9,7 +9,10 @@ namespace Packt.Shared
     [StringLength(40)]
     public string ProductName { get; set; }
 
-    [Column("UnitPrice")]
+    [Column("UnitPrice", TypeName = "money")]
+    public decimal? Cost { get; set; } // property name != field name
+
+    [Column("UnitsInStock")]
     public short? Stock { get; set; }
 
     public bool Discontinued { get; set; }
