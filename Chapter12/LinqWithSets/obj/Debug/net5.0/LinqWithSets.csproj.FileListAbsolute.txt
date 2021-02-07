@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.deps.json
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.dll
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/bin/Debug/net5.0/ref/LinqWithSets.dll
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/bin/Debug/net5.0/LinqWithSets.pdb
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.dll
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/ref/LinqWithSets.dll
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.pdb
+/Users/Work/Csharp-.NET/Chapter12/LinqWithSets/obj/Debug/net5.0/LinqWithSets.genruntimeconfig.cache
