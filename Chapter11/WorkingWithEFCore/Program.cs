@@ -4,6 +4,7 @@ using Packt.Shared;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore.Storage;
 
 namespace WorkingWithEFCore
 {
@@ -180,12 +181,19 @@ namespace WorkingWithEFCore
         {
             using (var db = new Northwind())
             {
-                IEnumerable<Product> products = db.Products.Where(
-                    p => p.ProductName.StartsWith(name));
+                using (IDbContextTransaction t = db.Database.BeginTransaction())
+                {
+                    WriteLine("Transaction isolation level: {0}",
+                        t.GetDbTransaction().IsolationLevel);
+                    
+                    /*IEnumerable<Product>*/ var products = db.Products.Where(
+                        p => p.ProductName.StartsWith(name));
 
-                db.Products.RemoveRange(products);
-                int affected = db.SaveChanges();
-                return affected;
+                    db.Products.RemoveRange(products);
+                    int affected = db.SaveChanges();
+                    t.Commit();
+                    return affected;
+                }
             }
         }
     }
