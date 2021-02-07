@@ -3,6 +3,7 @@ using static System.Console;
 using Packt.Shared;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace WorkingWithEFCore
 {
@@ -17,10 +18,12 @@ namespace WorkingWithEFCore
             // {
             //     WriteLine("Add product successful.");
             // }
-            if (IncreaseProductPrice("Bob", 20M))
-            {
-                WriteLine("Update product price successful.");
-            }
+            // if (IncreaseProductPrice("Bob", 20M))
+            // {
+            //     WriteLine("Update product price successful.");
+            // }
+            int deleted = DeleteProducts("Bob");
+            WriteLine($"{deleted} product(s) were deleted.");
             ListProducts();
         }
         
@@ -170,6 +173,19 @@ namespace WorkingWithEFCore
                 updateProduct.Cost += amount;
                 int affected = db.SaveChanges();
                 return (affected == 1);
+            }
+        }
+
+        static int DeleteProducts(string name)
+        {
+            using (var db = new Northwind())
+            {
+                IEnumerable<Product> products = db.Products.Where(
+                    p => p.ProductName.StartsWith(name));
+
+                db.Products.RemoveRange(products);
+                int affected = db.SaveChanges();
+                return affected;
             }
         }
     }
