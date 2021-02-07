@@ -21,7 +21,13 @@ namespace LinqWithEFCore
                     // query is a DbSet<Product>
                     .Where(product => product.UnitPrice < 10M)
                     // query is not an IQueryable<Product>
-                    .OrderByDescending(product => product.UnitPrice);
+                    .OrderByDescending(product => product.UnitPrice)
+                    .Select(product => new // anonymous type
+                    {
+                        product.ProductID,
+                        product.ProductName,
+                        product.UnitPrice
+                    });
 
                 WriteLine("Products that cost less than $10:");
                 foreach (var item in query)
