@@ -10,9 +10,9 @@ namespace WorkingWithEFCore
     {
         static void Main(string[] args)
         {
-            // QueryingCategories();
+            QueryingCategories();
             // FilteredIncludes();
-            QueryingProducts();
+            // QueryingProducts();
         }
         
         static void QueryingCategories()
@@ -22,11 +22,42 @@ namespace WorkingWithEFCore
                 WriteLine("Categories and how many products they have:");
 
                 // a query to get all categories and their related products
-                IQueryable<Category> cats = db.Categories
-                    .Include(c => c.Products);
+                IQueryable<Category> cats; // = db.Categories;
+                    // .Include(c => c.Products);
+
+                db.ChangeTracker.LazyLoadingEnabled = false;
+
+                Write("Enable eager loading? (Y/N): ");
+                bool eagerloading = (ReadKey().Key == ConsoleKey.Y);
+                bool explicitloading = false;
+                WriteLine();
+
+                if (eagerloading)
+                {
+                    cats = db.Categories.Include(c => c.Products);
+                }
+                else
+                {
+                    cats = db.Categories;
+
+                    Write("Enable explicit loading? (Y/N): ");
+                    explicitloading = (ReadKey().Key == ConsoleKey.Y);
+                    WriteLine();
+                }
 
                 foreach (Category c in cats)
                 {
+                    if (explicitloading)
+                    {
+                        Write($"Expicitly load products for {c.CategoryName}? (Y/N): ");
+                        ConsoleKeyInfo key = ReadKey();
+                        WriteLine();
+                        if (key.Key == ConsoleKey.Y)
+                        {
+                            var products = db.Entry(c).Collection(c2 => c2.Products);
+                            if (!products.IsLoaded) products.Load();
+                        }
+                    }
                     WriteLine($"{c.CategoryName} has {c.Products.Count} products.");
                 }
             }
@@ -42,6 +73,8 @@ namespace WorkingWithEFCore
 
                 IQueryable<Category> cats = db.Categories
                     .Include(c => c.Products.Where(p => p.Stock >= stock));
+
+                    WriteLine($"ToQueryingString: {cats.ToQueryString()}"); // returns the generated SQL
 
                     foreach (Category c in cats)
                     {
