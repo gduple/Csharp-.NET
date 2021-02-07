@@ -13,9 +13,13 @@ namespace WorkingWithEFCore
             // QueryingCategories();
             // FilteredIncludes();
             // QueryingProducts();
-            if (AddProduct(6, "Bob's Burgers", 500M))
+            // if (AddProduct(6, "Bob's Burgers", 500M))
+            // {
+            //     WriteLine("Add product successful.");
+            // }
+            if (IncreaseProductPrice("Bob", 20M))
             {
-                WriteLine("Add product successful.");
+                WriteLine("Update product price successful.");
             }
             ListProducts();
         }
@@ -152,6 +156,20 @@ namespace WorkingWithEFCore
                         item.ProductID, item.ProductName, item.Cost,
                         item.Stock, item.Discontinued);
                 }
+            }
+        }
+
+        static bool IncreaseProductPrice(string name, decimal amount)
+        {
+            using (var db = new Northwind())
+            {
+                // get first product whose name stars with name
+                Product updateProduct = db.Products.First(
+                    p => p.ProductName.StartsWith(name));
+
+                updateProduct.Cost += amount;
+                int affected = db.SaveChanges();
+                return (affected == 1);
             }
         }
     }
