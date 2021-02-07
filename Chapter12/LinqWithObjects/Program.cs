@@ -9,7 +9,8 @@ namespace LinqWithObjects
         static void Main(string[] args)
         {
 
-            LinqWithArrayOfStrings();
+            // LinqWithArrayOfStrings();
+            LinqWithArrayOfExceptions();
         }
 
         static void LinqWithArrayOfStrings()
@@ -33,5 +34,28 @@ namespace LinqWithObjects
     //         {
     //             return name.Length > 4;
     //         }
+
+        static void LinqWithArrayOfExceptions()
+        {
+            var errors = new Exception[]
+            {
+                new ArgumentException(),
+                new SystemException(),
+                new IndexOutOfRangeException(),
+                new InvalidOperationException(),
+                new NullReferenceException(),
+                new InvalidCastException(),
+                new OverflowException(),
+                new DivideByZeroException(),
+                new ApplicationException()
+            };
+
+            var numberErrors = errors.OfType<ArithmeticException>();
+
+            foreach ( var error in numberErrors)
+            {
+                WriteLine(error);
+            }
+        }
     }
 }
