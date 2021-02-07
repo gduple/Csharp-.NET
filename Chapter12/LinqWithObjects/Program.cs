@@ -16,7 +16,9 @@ namespace LinqWithObjects
         {
             var names = new string[] { "Michael", "Pam", "Jim", "Dwight",
                 "Angela", "Kevin", "Toby", "Creed" };
-            var query = names.Where(new Func<string, bool>(NameLongerThanFour));
+            // var query = names.Where(new Func<string, bool>(NameLongerThanFour));
+            // var query = names.Where(NameLongerThanFour);
+            var query = names.Where(name => name.Length > 4);
 
             foreach (string item in query)
             {
@@ -24,9 +26,9 @@ namespace LinqWithObjects
             }
         }
 
-       static bool NameLongerThanFour(string name)
-            {
-                return name.Length > 4;
-            }
+    //    static bool NameLongerThanFour(string name)
+    //         {
+    //             return name.Length > 4;
+    //         }
     }
 }
