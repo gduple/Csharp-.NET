@@ -10,10 +10,10 @@ namespace LinqWithEFCore
     {
         static void Main(string[] args)
         {
-            // FilterAndSort();
+            FilterAndSort();
             // JoinCategoriesAndProducts();
             // GroupJoinCategoriesAndProducts();
-            AggregateProducts();
+            // AggregateProducts();
         }
 
         static void FilterAndSort()
@@ -22,6 +22,7 @@ namespace LinqWithEFCore
             {
                 var query = db.Products
                     // query is a DbSet<Product>
+                    .ProcessSequence()
                     .Where(product => product.UnitPrice < 10M)
                     // query is not an IQueryable<Product>
                     .OrderByDescending(product => product.UnitPrice)
