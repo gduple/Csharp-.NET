@@ -18,11 +18,13 @@ namespace SynchronizingResourceAccess
             WriteLine();
             WriteLine($"Results: {Message}.");
             WriteLine($"{watch.ElapsedMilliseconds:#,##0} elapsed milliseconds.");
+            WriteLine($"{Counter} string modifications.");
         }
 
         static Random r = new Random();
         static string Message; // a shared resource
         static object conch = new object();
+        static int Counter; // another shared resource
 
         static void MethodA()
         {
@@ -35,6 +37,7 @@ namespace SynchronizingResourceAccess
                     {
                         Thread.Sleep(r.Next(2000));
                         Message += "A";
+                        Interlocked.Increment(ref Counter);
                         Write(".");
                     }
                 }
@@ -61,6 +64,7 @@ namespace SynchronizingResourceAccess
                     {
                         Thread.Sleep(r.Next(2000));
                         Message += "B";
+                        Interlocked.Increment(ref Counter);
                         Write(".");
                     }
                 }
