@@ -22,24 +22,56 @@ namespace SynchronizingResourceAccess
 
         static Random r = new Random();
         static string Message; // a shared resource
+        static object conch = new object();
 
         static void MethodA()
         {
-            for (int i = 0; i < 5; i++)
+            // lock (conch)
+            try
             {
-                Thread.Sleep(r.Next(2000));
-                Message += "A";
-                Write(".");
+                if (Monitor.TryEnter(conch, TimeSpan.FromSeconds(15)))
+                {
+                    for (int i = 0; i < 5; i++)
+                    {
+                        Thread.Sleep(r.Next(2000));
+                        Message += "A";
+                        Write(".");
+                    }
+                }
+                else
+                {
+                    WriteLine("Method A failed to enter a monitor lock.");
+                }
             }
+            finally
+            {
+                Monitor.Exit(conch);
+            }
+
         }
 
         static void MethodB()
         {
-            for (int i = 0; i < 5; i++)
+            // lock (conch)
+            try
             {
-                Thread.Sleep(r.Next(2000));
-                Message += "B";
-                Write(".");
+                if (Monitor.TryEnter(conch, TimeSpan.FromSeconds(15)))
+                {
+                    for (int i = 0; i < 5; i++)
+                    {
+                        Thread.Sleep(r.Next(2000));
+                        Message += "B";
+                        Write(".");
+                    }
+                }
+                else
+                {
+                    WriteLine("Method B failed to enter a monitor lock.");
+                }
+            }
+            finally
+            {
+                Monitor.Exit(conch);
             }
         }
     }
