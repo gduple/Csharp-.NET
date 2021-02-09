@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.deps.json
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.dll
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/ref/NestedAndChildTasks.dll
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.pdb
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.dll
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/ref/NestedAndChildTasks.dll
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.pdb
+/Users/Work/Csharp-.NET/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.genruntimeconfig.cache

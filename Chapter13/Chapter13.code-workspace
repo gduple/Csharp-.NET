@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "WorkingWithTasks"
+		},
+		{
+			"path": "NestedAndChildTasks"
 		}
 	],
 	"settings": {}
