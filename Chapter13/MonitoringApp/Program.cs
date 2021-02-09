@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Diagnostics;
+using System.Linq;
+using Packt.Shared;
 using static System.Console;
-using static System.Diagnostics.Process;
 
 namespace MonitoringApp
 {
@@ -9,7 +9,18 @@ namespace MonitoringApp
     {
         static void Main(string[] args)
         {
-            
+            WriteLine( "Processing. Please wait..." );
+            Recorder.Start();
+
+            // simulate a process that requires some memory resources...
+            int[] largeArrayOfInts =
+                Enumerable.Range(1, 10_000).ToArray();
+
+            // ...and takes some time to complete
+            System.Threading.Thread.Sleep(
+                new Random().Next( 5, 10 ) * 1000 );
+
+            Recorder.Stop();
         }
     }
 }
