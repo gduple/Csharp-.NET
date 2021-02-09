@@ -1,0 +1,15 @@
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.deps.json
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.json
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.dev.json
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.dll
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.pdb
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csprojAssemblyReference.cache
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfoInputs.cache
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfo.cs
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.dll
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.pdb
+/Users/Work/Csharp-.NET/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.genruntimeconfig.cache
